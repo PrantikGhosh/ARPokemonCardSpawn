@@ -1,0 +1,11 @@
+Model Information:
+* title:	Charizard Flying Animation
+* source:	https://sketchfab.com/3d-models/charizard-flying-animation-cf5a229a8ce34ff2b7c3f92426c5709b
+* author:	ryad_raba (https://sketchfab.com/ryad_raba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Charizard Flying Animation" (https://sketchfab.com/3d-models/charizard-flying-animation-cf5a229a8ce34ff2b7c3f92426c5709b) by ryad_raba (https://sketchfab.com/ryad_raba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

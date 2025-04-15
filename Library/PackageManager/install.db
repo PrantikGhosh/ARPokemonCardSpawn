@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "c33a8d5b61012da65590efb2759ec036",
+        "mtime": 1742920188000,
+        "size": 140648427,
+        "localPath": "C:\\Unity Repositories\\ARProject\\ARProject\\Packages\\com.ptc.vuforia.engine-11.1.3.tgz"
+      }
+    }
+  }
+}

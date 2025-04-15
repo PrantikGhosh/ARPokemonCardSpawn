@@ -1,0 +1,11 @@
+Model Information:
+* title:	Urshifu Rapid Strike
+* source:	https://sketchfab.com/3d-models/urshifu-rapid-strike-a53233a0a0444bf59d69ab1e5367f9bf
+* author:	aceburn5yt (https://sketchfab.com/aceburn5yt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Urshifu Rapid Strike" (https://sketchfab.com/3d-models/urshifu-rapid-strike-a53233a0a0444bf59d69ab1e5367f9bf) by aceburn5yt (https://sketchfab.com/aceburn5yt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

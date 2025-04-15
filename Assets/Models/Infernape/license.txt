@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon PokeDex 3D Pro Infernape
+* source:	https://sketchfab.com/3d-models/pokemon-pokedex-3d-pro-infernape-51ec3101d01849d5b0c9930498c9ef47
+* author:	ijackprovostjr (https://sketchfab.com/ijackprovostjr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon PokeDex 3D Pro Infernape" (https://sketchfab.com/3d-models/pokemon-pokedex-3d-pro-infernape-51ec3101d01849d5b0c9930498c9ef47) by ijackprovostjr (https://sketchfab.com/ijackprovostjr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
